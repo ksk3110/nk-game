@@ -1,1 +1,1 @@
-# nd-game
+# nk-game
